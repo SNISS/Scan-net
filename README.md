@@ -7,4 +7,4 @@ git clone https://github.com/SNISS/Scan-net/
 
 chmod +x scan-net.sh
 
-./scan-net.sh ip
+./ping-sweep.sh ip
