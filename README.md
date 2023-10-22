@@ -1,5 +1,5 @@
 # Scan-net
-SImple scan-net with  bash 
+SImple scan-net with  bash makes a pingsweep and a portscan in the network target
 
 
 # Instalation
